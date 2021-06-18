@@ -136,9 +136,9 @@ AA Degree
 
 # **ADDITIONAL STUDIES**
 
-DataCamp – Data Science Certification, Machine Learning Certification, SQL Courses
-Skillsoft – Bias in the Workplace
-Snowflake – Data Warehouse Modernization, Augmented Data Lakes
+* DataCamp – Data Science Certification, Machine Learning Certification, SQL Courses
+* Skillsoft – Bias in the Workplace
+* Snowflake – Data Warehouse Modernization, Augmented Data Lakes
 
 <!---
 celesteshort/celesteshort is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
