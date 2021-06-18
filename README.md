@@ -1,12 +1,13 @@
  
-## CELESTE INDIRA SHORT
+## Hi my name is Celeste and this page is all about me
 
 <hr>
+<div align="right">
 
 [Celeste Indira LinkedIn Profile](https://www.linkedin.com/in/celeste-short) 
 
 [My GitHub Lending Club Project](https://github.com/celesteshort/ml-lending-default)
-
+</div>
 
 # **PROFESSIONAL SUMMARY** 
 
